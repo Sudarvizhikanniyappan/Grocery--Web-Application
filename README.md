@@ -118,5 +118,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 For any questions or support, reach out to:
-- **Author:** Bharath
-- **GitHub:** [Bharath136](https://github.com/Bharath136)
+- **Author:** Sudarvizhikanniyappan
+- **GitHub:** https://github.com/Sudarvizhikanniyappan
